@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleViewer</string>
+    <string name="link">rtsp://54.84.241.223:1935/live/myStream</string>
+</resources>
